@@ -8,7 +8,7 @@ const Styles = styled.div`
   }
 
   .navbar-brand,
-  .navbar-nav .navbar-link {
+  .navbar-nav .nav-link {
     color: #bbb;
 
     &:hover {
