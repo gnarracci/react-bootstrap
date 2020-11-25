@@ -8,7 +8,7 @@ const Styles = styled.div`
     background: url(${imac}) no-repeat fixed bottom;
     background-size: cover;
     color: #000;
-    height: 250px;
+    height: 450px;
     position: relative;
     z-index: -2;
 
